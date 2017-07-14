@@ -1,0 +1,13 @@
+﻿table {
+    width: 500px;
+    border: solid 1px black;
+}
+th, td {
+    border: solid 1px black !important;
+    text-align:center;
+    padding: 10px;
+}
+
+.searchfunction {
+    padding-bottom:10px;
+}

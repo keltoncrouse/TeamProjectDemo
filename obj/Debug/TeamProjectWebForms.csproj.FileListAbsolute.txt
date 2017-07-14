@@ -1,0 +1,124 @@
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\ApplicationInsights.config
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\csc.exe
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\csc.exe.config
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\csc.rsp
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\csi.exe
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\csi.rsp
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\System.AppContext.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\System.IO.FileSystem.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\vbc.exe
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\vbc.exe.config
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\vbc.rsp
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\VBCSCompiler.exe
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\TeamProjectWebForms.dll.config
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\TeamProjectWebForms.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\TeamProjectWebForms.pdb
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Antlr3.Runtime.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.Web.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.ApplicationInsights.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Newtonsoft.Json.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\System.Web.Optimization.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\WebGrease.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\System.Web.Optimization.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Antlr3.Runtime.pdb
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Newtonsoft.Json.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.ApplicationInsights.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\bin\Microsoft.AI.Web.xml
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\obj\Debug\TeamProjectWebForms.csprojResolveAssemblyReference.cache
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\obj\Debug\TeamProjectWebForms.dll
+c:\users\kelton crouse\documents\visual studio 2017\Projects\TeamProjectWebForms\TeamProjectWebForms\obj\Debug\TeamProjectWebForms.pdb
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\ApplicationInsights.config
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\csc.exe
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\csc.exe.config
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\csc.rsp
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\csi.exe
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\csi.rsp
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\System.AppContext.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\vbc.exe
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\vbc.exe.config
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\vbc.rsp
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\TeamProjectWebForms.dll.config
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\TeamProjectWebForms.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\TeamProjectWebForms.pdb
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Antlr3.Runtime.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.Web.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Newtonsoft.Json.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\System.Web.Optimization.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\WebGrease.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\System.Web.Optimization.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Antlr3.Runtime.pdb
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Newtonsoft.Json.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\bin\Microsoft.AI.Web.xml
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\obj\Debug\TeamProjectWebForms.csprojResolveAssemblyReference.cache
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\obj\Debug\TeamProjectWebForms.dll
+C:\Users\Kelton Crouse\Desktop\TeamProjectWebFormsOriginal\TeamProjectWebForms\obj\Debug\TeamProjectWebForms.pdb
